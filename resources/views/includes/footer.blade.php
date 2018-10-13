@@ -1,0 +1,1 @@
+<div id="copyright text-right">Footer goes here</div>
