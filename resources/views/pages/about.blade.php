@@ -1,6 +1,8 @@
 @extends('layouts.default')
 @section('content')
     <h1>I am the About Page</h1>
-    <h2>Student Name: Christian</h2>
-    <h2>UCID: cka6</h2>
+    <h3>Student Name: Christian</h3>
+    <h3>UCID: cka6</h3>
+    <h3>City: Los Angeles</h3>
+    <h3>State: California</h3>
 @stop
